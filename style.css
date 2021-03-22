@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+
+body{
+				background-color: white;
+				color: black;
+				text-align: justify;
+				
+}
+header#cabecalho{
+				position: relative;
+				border-bottom: 1px black solid;
+				
+				
+}
+header#cabecalho h1{
+				position: relative;
+				left: 37%;
+				text-decoration: upercase;
+				font-family: 'Redressed', cursive;
+}
+div#interface{
+				background-color: #606060;
+				color: white;
+				box-sizing: border-box;
+				box-shadow: 1px 1px 8px black;
+}
+div#email input {
+				position: relative;
+				left: 80px;
+				top: 10px;
+				box-sizing: border-box;
+				box-shadow: 1px 1px 7px black	;
+				padding: 0px;
+			margin: 0px;
+			
+				 }
+div#email input houver{
+				box-shadow: 1px 1px 7px white;
+				
+}
+				 div#senha input{
+				 								position: relative;
+				left: 80px;
+				top: 8px;
+				box-sizing: border-box;
+				box-shadow: 1px 1px 7px black	;
+				 }
+div#social ul{
+        
+				
+}
